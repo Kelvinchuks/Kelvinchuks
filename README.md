@@ -2,7 +2,7 @@
 #### **I am a Data Analyst and Financial Analyst**
 
 - 🌱 I’m currently learning software engineer program with ALX
-- 🔭 I’m currently working on a Project
+- 🔭 I’m currently working on a Project that will help reduce the rate of fraud in the housing sector in Nigeria particularly Lagos.
 - 👯 I’m looking to collaborate with other software enginers and data analysts
 - ⚡ Fun fact: I love playing football games and travelling
 - 💬 Here's my link on how to reach me: https://www.linkedin.com/in/toochukwuokutalukwe
