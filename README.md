@@ -11,7 +11,7 @@ My attention to detail and ability to spot trends and patterns make me adept at 
 - 🔭 I’m currently working on a Project to help reduce the fraud rate in Nigeria's housing sector, particularly Lagos.
 - 👯 I’m looking to collaborate with other software engineers and data analysts
 - ⚡ Fun fact: I love playing football games and travelling
-- 💬 Here's my link on how to reach me via [GMAIL](okutalukwetoochukwu@gmail.com)
+- 💬 Here's my link on how to reach me via [GMAIL]<okutalukwetoochukwu@gmail.com>
 
 <!--
 **Kelvinchuks/Kelvinchuks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
