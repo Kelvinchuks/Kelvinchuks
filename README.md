@@ -1,11 +1,11 @@
 ### Hi there 👋 my name is Toochukwu Okutalukwe
 #### **I am a Data Analyst and Financial Analyst**
 
-I am a Data and Financial Analyst passionate about uncovering valuable insights. With a strong background in statistics and finance, I combine analytical prowess with business acumen to drive informed decision-making. 
+As a dedicated Data and Financial Analyst, I bring a unique blend of technical proficiency and analytical acumen, developed through rigorous academic training and hands-on experience. Holding a Bachelor of Technology in Financial Management Technology, a Google Data Professional Certificate, and a Financial Modeling and Valuation Analyst Certificate, I have honed my skills in programming languages such as R, SQL, and Python, alongside tools like Microsoft Excel and Power BI.
 
-My expertise lies in collecting, cleaning, and analyzing large datasets, using advanced statistical models (IBM SPSS Statistics and Excel), programming languages(SQL, R, and Python) and Visuals (Power BI). 
+My professional journey includes impactful roles at Meriskill and Emmy Frank Nigeria Limited, where I optimized data collection processes, improved data accuracy by 30%, and reduced processing errors by 15%. I have successfully conducted comprehensive data analyses, developed detailed reports, and contributed to initiatives aimed at achieving pay equity, promoting diversity, and enhancing decision-making efficiency.
 
-My attention to detail and ability to spot trends and patterns make me adept at forecasting financial outcomes and identifying investment opportunities. Equipped with exceptional problem-solving skills and a deep understanding of financial markets, I consistently deliver accurate and actionable recommendations that enhance organizational performance and profitability. I am a valued asset in the world of data-driven decision-making.
+I am passionate about leveraging data-driven insights to drive business success and look forward to connecting with like-minded professionals and organizations.
 
 - 🌱 I’m currently learning ACIE with ALX
 - 🔭 I’m working on a Project to help reduce the fraud rate in Nigeria's housing sector, particularly Lagos.
