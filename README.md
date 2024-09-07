@@ -12,7 +12,7 @@ I am passionate about leveraging data-driven insights to drive business success 
 - 👯 I’m looking to collaborate with other software engineers and data analysts
 - ⚡ Fun fact: I love playing football games and travelling
 - 💬 Here's my link on how to reach me via okutalukwetoochukwu@gmail.com
-- 💬 My [Resume](https://github.com/Kelvinchuks/Kelvinchuks/blob/Kelvinchuks/Toochukwu_Okutalukwe_Resume_Europass.pdf)
+- 💬 My [Resume](https://github.com/Kelvinchuks/Kelvinchuks/blob/Kelvinchuks/TOOCHUKWU_OKUTALUKWE_RESUME_EUROPASS.pdf)
 
 <!--
 **Kelvinchuks/Kelvinchuks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
