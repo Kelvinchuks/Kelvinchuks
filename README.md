@@ -11,7 +11,7 @@ I am passionate about leveraging data-driven insights to drive business success 
 - 👯 I’m looking to collaborate with other data analysts and security analyst
 - ⚡ Fun fact: I love playing football games and travelling
 - 💬 Here's my link on how to reach me via okutalukwetoochukwu@gmail.com
-- 💬 My [Resume](https://github.com/Kelvinchuks/Kelvinchuks/blob/Kelvinchuks/TOOCHUKWU_OKUTALUKWE_RESUME_EUROPASS.pdf)
+- 💬 My [Resume](https://github.com/Kelvinchuks/Kelvinchuks/blob/Kelvinchuks/Toochukwu%20OKUTALUKWE%20Data%20Analyst%201.pdf)
 
 <!--
 **Kelvinchuks/Kelvinchuks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
