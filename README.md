@@ -8,7 +8,7 @@ My professional journey includes impactful roles at Meriskill, Emmy Frank Nigeri
 I am passionate about leveraging data-driven insights to drive business success and look forward to connecting with like-minded professionals and organizations.
 
 - 🌱 I have completed my cybersecurity program with GrowWithGoogle
-- 👯 I’m looking to collaborate with other data analysts and security analyst
+- 👯 I’m looking for entry-level security analyst role
 - ⚡ Fun fact: I love playing football games and travelling
 - 💬 Here's my link on how to reach me via okutalukwetoochukwu@gmail.com
 - 💬 My [Resume](https://github.com/Kelvinchuks/Kelvinchuks/blob/Kelvinchuks/Toochukwu%20OKUTALUKWE%20Data%20Analyst%201.pdf)
