@@ -16,7 +16,7 @@ I’m passionate about bridging the gap between data security, business intellig
 
 ✉️ Reach me: okutalukwetoochukwu@gmail.com
 
-📄 My [Resume](https://github.com/Kelvinchuks/Kelvinchuks/blob/Kelvinchuks/TOOCHUKWU_OKUTALUKWE_RESUME.pdf.pdf)
+📄 My [Resume](https://github.com/Kelvinchuks/Kelvinchuks/blob/Kelvinchuks/TOOCHUKWU_OKUTALUKWE_RESUME.pdf)
 
 ⚽ Fun fact: I enjoy football games and exploring new cities 🌍
 
