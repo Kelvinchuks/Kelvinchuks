@@ -1,17 +1,23 @@
-### Hi there 👋 my name is Toochukwu Okutalukwe
-#### **I am a Data Analyst and Financial Analyst**
+👋 Hi there, I'm Toochukwu Okutalukwe
+Cybersecurity Analyst | Data Analyst | Financial Analyst
 
-As a dedicated Data and Financial Analyst, I bring a unique blend of technical proficiency and analytical insight, developed through rigorous academic training and hands-on experience. Holding a Bachelor of Technology in Financial Management Technology, a Google Data Professional Certificate, and a Financial Modeling and Valuation Analyst Certificate, I have honed my skills in programming languages like R, SQL, and Python, alongside tools like Microsoft Excel and Power BI.
+I’m a multidisciplinary professional with a growing specialisation in Cybersecurity, building on a strong foundation in Data Analysis and Financial Analytics. With hands-on experience in vulnerability management, threat detection, and incident response, I bring technical expertise in tools like Splunk, Wireshark, Nmap, and scripting in Python to support secure and data-informed environments.
 
-My professional journey includes impactful roles at Meriskill, Emmy Frank Nigeria Limited, Falcon FX Ltd and Fidelity Bank Plc, where I optimized data collection processes, improved data accuracy by 30%, and reduced processing errors by 15%. I have successfully conducted comprehensive data analyses, developed detailed reports, and contributed to initiatives to achieve pay equity, promote diversity, and enhance decision-making efficiency.
+I hold a Bachelor of Technology in Financial Management Technology, and have earned multiple certifications, including the Google Cybersecurity Certificate, Google Data Analytics Certificate, and Financial Modelling & Valuation Analyst. My work with organisations like Mentor Me Collective, Meriskill, Emmy Frank Nigeria Limited, and Fidelity Bank has equipped me to detect threats, enhance fraud detection, and drive insights for business resilience and compliance.
 
-I am passionate about leveraging data-driven insights to drive business success and look forward to connecting with like-minded professionals and organizations.
+I’m passionate about bridging the gap between data security, business intelligence, and risk management, with a continuous-learning mindset and a deep interest in improving cyber defense strategies across industries.
 
-- 🌱 I have completed my cybersecurity program with GrowWithGoogle
-- 👯 I’m looking for entry-level security analyst role
-- ⚡ Fun fact: I love playing football games and travelling
-- 💬 Here's my link on how to reach me via okutalukwetoochukwu@gmail.com
-- 💬 My [Resume](https://github.com/Kelvinchuks/Kelvinchuks/blob/Kelvinchuks/Toochukwu%20OKUTALUKWE%20Data%20Analyst%201.pdf)
+🔐 Completed Google Cybersecurity Certificate with focus on threat detection, IAM, and SIEM
+
+📊 Strong in SQL, Python, R, Excel, Power BI – for data-driven security and analysis
+
+👀 Actively seeking entry-level roles in Security Operations (SOC), Threat Analysis, or Cyber Risk
+
+✉️ Reach me: okutalukwetoochukwu@gmail.com
+
+📄 My [Resume](https://github.com/Kelvinchuks/Kelvinchuks/blob/Kelvinchuks/Toochukwu%20OKUTALUKWE%20Data%20Analyst%201.pdf)
+
+⚽ Fun fact: I enjoy football games and exploring new cities 🌍
 
 <!--
 **Kelvinchuks/Kelvinchuks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
