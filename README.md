@@ -1,4 +1,5 @@
 👋 Hi there, I'm Toochukwu Okutalukwe
+
 Cybersecurity Analyst | Data Analyst | Financial Analyst
 
 I’m a multidisciplinary professional with a growing specialisation in Cybersecurity, building on a strong foundation in Data Analysis and Financial Analytics. With hands-on experience in vulnerability management, threat detection, and incident response, I bring technical expertise in tools like Splunk, Wireshark, Nmap, and scripting in Python to support secure and data-informed environments.
@@ -15,7 +16,7 @@ I’m passionate about bridging the gap between data security, business intellig
 
 ✉️ Reach me: okutalukwetoochukwu@gmail.com
 
-📄 My [Resume](https://github.com/Kelvinchuks/Kelvinchuks/blob/Kelvinchuks/Toochukwu%20OKUTALUKWE%20Data%20Analyst%201.pdf)
+📄 My [Resume](https://github.com/Kelvinchuks/Kelvinchuks/blob/Kelvinchuks/TOOCHUKWU_OKUTALUKWE_RESUME.pdf.pdf)
 
 ⚽ Fun fact: I enjoy football games and exploring new cities 🌍
 
