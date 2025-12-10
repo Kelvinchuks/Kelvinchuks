@@ -1,4 +1,4 @@
-👋 Hi there, I'm Toochukwu Okutalukwe
+Hi there, I'm Toochukwu Okutalukwe
 
 Cybersecurity Analyst | Data Analyst | Financial Analyst
 
@@ -8,17 +8,17 @@ I hold a Bachelor of Technology in Financial Management Technology, and I am cur
 
 I’m passionate about bridging the gap between data security, business intelligence, and risk management, with a continuous-learning mindset and a deep interest in improving cyber defense strategies across industries.
 
-🔐 Completed Google Cybersecurity Certificate with focus on threat detection, IAM, SIEM, Incident response and document using incident handling journal
+Completed Google Cybersecurity Certificate with focus on threat detection, IAM, SIEM, Incident response and document using incident handling journal
 
-📊 Strong in SQL, Python, R, Excel, Power BI – for data-driven security and analysis
+Strong in SQL, Python, R, Excel, Power BI – for data-driven security and analysis
 
-👀 Actively seeking entry-level roles in Security Operations (SOC), Threat Analysis, or Cyber Risk
+Actively seeking entry-level roles in Security Operations (SOC), Threat Analysis, or Cyber Risk
 
-✉️ Reach me: okutalukwetoochukwu@gmail.com
+Reach me: okutalukwetoochukwu@gmail.com
 
-📄 My [Resume](https://github.com/Kelvinchuks/Kelvinchuks/blob/Kelvinchuks/TOOCHUKWU_OKUTALUKWE_RESUME.pdf)
+My [Resume](https://github.com/Kelvinchuks/Kelvinchuks/blob/Kelvinchuks/TOOCHUKWU_OKUTALUKWE_RESUME.pdf)
 
-⚽ Fun fact: I enjoy football games and exploring new cities 🌍
+Fun fact: I enjoy football games and exploring new cities
 
 <!--
 **Kelvinchuks/Kelvinchuks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
