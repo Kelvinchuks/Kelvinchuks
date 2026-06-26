@@ -24,10 +24,6 @@ Completed Google Cloud Cybersecurity Certificate with focus on threat detection,
 
 Strong in SQL, Python, R, Excel, Power BI, Linux, SIEM (Splunk), Suricata, Wireshark, VirusTotal, Nmap – for data-driven and security analysis
 
-
-
-Actively seeking entry-level roles in IT support, Security Operations (SOC), or Threat Analysis
-
 Reach me: okutalukwetoochukwu@gmail.com
 
 My [Resume](https://github.com/Kelvinchuks/Kelvinchuks/blob/Kelvinchuks/TOOCHUKWU_OKUTALUKWE_RESUME.pdf)
