@@ -26,7 +26,7 @@ Strong in SQL, Python, R, Excel, Power BI, Linux, SIEM (Splunk), Suricata, Wires
 
 Reach me: okutalukwetoochukwu@gmail.com
 
-My [Resume](https://github.com/Kelvinchuks/Kelvinchuks/blob/Kelvinchuks/TOOCHUKWU_OKUTALUKWE_RESUME.pdf)
+My [Resume](https://github.com/Kelvinchuks/Kelvinchuks/blob/Kelvinchuks/Toochukwu%20Augustine%20Okutalukwe%20CV.pdf)
 
 Fun fact: I enjoy football games and exploring new cities
 
